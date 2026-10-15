@@ -1,0 +1,6 @@
+name = "europa-crest"
+main = "index.js"
+compatibility_date = "2026-10-15"
+
+[vars]
+TELEGRAM_CHAT_ID = "8650513482"
